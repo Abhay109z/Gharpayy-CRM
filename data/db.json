@@ -1,0 +1,1832 @@
+{
+  "leads": [
+    {
+      "id": "lead-101",
+      "name": "Rohan Varma",
+      "phone": "+91 98451 22891",
+      "email": "rohan.varma@zerodha.in",
+      "locality": "HSR Layout, Bangalore",
+      "budget": 18000,
+      "occupancyType": "Single",
+      "propertyType": "Private Room",
+      "moveInDate": "2026-10-01",
+      "stage": "new_lead",
+      "owner": "Aarav Sharma",
+      "deadline": "2026-09-22T10:03:25.756Z",
+      "isOverdue": true,
+      "overdueMinutes": 42,
+      "urgency": "high",
+      "whyWeAreCalling": "Inquired on WhatsApp 45 mins ago asking for single room near HSR Sector 2; starting new job at Zerodha on Monday.",
+      "whatIsAlreadyKnown": {
+        "budget": "₹15,000 - ₹18,000 / month",
+        "targetLocation": "HSR Layout Sector 1 to 4",
+        "workplace": "Zerodha HQ, 4th Cross HSR",
+        "foodPreference": "North Indian veg + egg",
+        "stayDuration": "Minimum 9 months"
+      },
+      "whatToConfirm": [
+        "Move-in date flexibility (1st vs 5th)",
+        "Vehicle parking needed (Bike vs Car)",
+        "Preferred tour slot today (4 PM vs 6 PM)"
+      ],
+      "callScriptPoints": [
+        "Hi Rohan, Aarav here from Gharpayy/LeadZen. Saw your request for a single room in HSR.",
+        "We have a newly opened property just 400m from Zerodha HQ with zero brokerage and high-speed fiber WiFi.",
+        "Our property manager Suresh can show you the private balcony room today at 5:30 PM. Would that work?"
+      ],
+      "recommendedProperty": {
+        "id": "prop-1",
+        "title": "ZenStay Luxury Coliving, Sector 2",
+        "locality": "HSR Layout, Bangalore",
+        "monthlyRent": 16500,
+        "deposit": 33000,
+        "roomType": "Private Room",
+        "furnishing": "Fully Furnished",
+        "availableFrom": "Immediately",
+        "walkingToMetro": "6 mins to HSR BDA Complex",
+        "photos": [
+          "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=500&auto=format&fit=crop&q=60"
+        ]
+      },
+      "autoCustomerMessage": "Hi Rohan! Great speaking with you. As discussed, I have held the private balcony room at ZenStay HSR (₹16,500/mo incl. food & wifi) for a physical tour today at 5:30 PM. Property Manager: Suresh (+91 98801 12345). Google Maps: https://maps.app.goo.gl/ZenStayHSR. See you then!",
+      "autoNextStep": "Conduct physical tour at ZenStay HSR Sector 2",
+      "autoFollowUpDeadline": "2026-09-22T12:45:25.756Z",
+      "whatsappMessages": [
+        {
+          "id": "wm-1",
+          "sender": "customer",
+          "senderName": "Rohan Varma",
+          "timestamp": "10:15 AM",
+          "text": "Hi, I saw your ad on Instagram for single rooms in HSR. Moving to Bangalore this weekend."
+        },
+        {
+          "id": "wm-2",
+          "sender": "operator",
+          "senderName": "Aarav Sharma",
+          "timestamp": "10:16 AM",
+          "text": "Hello Rohan! Welcome to Bangalore. What is your preferred budget and company location?"
+        },
+        {
+          "id": "wm-3",
+          "sender": "customer",
+          "senderName": "Rohan Varma",
+          "timestamp": "10:18 AM",
+          "text": "Budget around 16k-18k. Workplace is Zerodha in HSR Sector 4. Need good wifi and power backup."
+        }
+      ],
+      "updatedAt": "2026-09-22T10:45:25.756Z"
+    },
+    {
+      "id": "lead-102",
+      "name": "Ananya Deshmukh",
+      "phone": "+91 97112 44321",
+      "email": "ananya.d@google.com",
+      "locality": "Indiranagar, Bangalore",
+      "budget": 28000,
+      "occupancyType": "Single",
+      "propertyType": "1 BHK",
+      "moveInDate": "2026-10-05",
+      "stage": "tour_scheduled",
+      "owner": "Pooja Hegde",
+      "deadline": "2026-09-22T11:03:25.756Z",
+      "isOverdue": false,
+      "urgency": "high",
+      "whyWeAreCalling": "Tour confirmation call for 1BHK in Indiranagar 12th Main scheduled for 4:00 PM today.",
+      "whatIsAlreadyKnown": {
+        "budget": "₹25,000 - ₹30,000 / month",
+        "targetLocation": "Indiranagar near 100ft road or Metro",
+        "workplace": "Google RMZ Infinity / Hybrid",
+        "foodPreference": "Self-cooking modular kitchen",
+        "stayDuration": "1 year+"
+      },
+      "whatToConfirm": [
+        "Arrival time at Indiranagar 12th Main",
+        "Check if she needs dedicated 4-wheeler parking slot",
+        "Verify immediate token payment readiness if unit meets checklist"
+      ],
+      "callScriptPoints": [
+        "Hi Ananya, Pooja from LeadZen. Calling to confirm our 4:00 PM visit at UrbanHaven 1BHK.",
+        "The keys are with our on-site executive Vikram. The terrace apartment has modular fittings and washer included.",
+        "If you like it, we can lock the early-bird pricing today itself."
+      ],
+      "recommendedProperty": {
+        "id": "prop-2",
+        "title": "UrbanHaven Studio 1BHK, 12th Main",
+        "locality": "Indiranagar, Bangalore",
+        "monthlyRent": 26000,
+        "deposit": 50000,
+        "roomType": "1 BHK",
+        "furnishing": "Fully Furnished",
+        "availableFrom": "Oct 1st",
+        "walkingToMetro": "4 mins to Indiranagar Metro",
+        "photos": [
+          "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=500&auto=format&fit=crop&q=60"
+        ]
+      },
+      "tourDate": "Today",
+      "tourTime": "4:00 PM",
+      "tourType": "In-Person Physical",
+      "autoCustomerMessage": "Hi Ananya, confirmed for 4:00 PM tour today at UrbanHaven Studio 1BHK, 12th Main Indiranagar! Vikram (+91 98450 99887) will welcome you at the gate. Pin: https://maps.app.goo.gl/UrbanHavenInd",
+      "autoNextStep": "Post-tour decision call at 5:15 PM today",
+      "autoFollowUpDeadline": "2026-09-22T12:15:25.756Z",
+      "whatsappMessages": [
+        {
+          "id": "wm-4",
+          "sender": "customer",
+          "senderName": "Ananya Deshmukh",
+          "timestamp": "Yesterday 3:30 PM",
+          "text": "Is the 1BHK on 12th Main still available?"
+        },
+        {
+          "id": "wm-5",
+          "sender": "operator",
+          "senderName": "Pooja Hegde",
+          "timestamp": "Yesterday 3:35 PM",
+          "text": "Yes Ananya! It has a private balcony and full power backup. Would you like a tour?"
+        },
+        {
+          "id": "wm-6",
+          "sender": "customer",
+          "senderName": "Ananya Deshmukh",
+          "timestamp": "Yesterday 4:10 PM",
+          "text": "Yes please, can we do 4 PM tomorrow?"
+        }
+      ],
+      "updatedAt": "2026-09-22T10:45:25.756Z"
+    },
+    {
+      "id": "lead-103",
+      "name": "Vikram Rathore",
+      "phone": "+91 99001 55678",
+      "email": "vikram.r@flipkart.com",
+      "locality": "Bellandur / EcoWorld",
+      "budget": 15000,
+      "occupancyType": "Single",
+      "propertyType": "Coliving PG",
+      "moveInDate": "2026-09-28",
+      "stage": "decision_pending",
+      "owner": "Rohan Mehta",
+      "deadline": "2026-09-22T09:10:25.756Z",
+      "isOverdue": true,
+      "overdueMinutes": 95,
+      "urgency": "high",
+      "whyWeAreCalling": "Completed tour yesterday at EcoNest Bellandur; quote sent at ₹14,500; token pending to hold room.",
+      "whatIsAlreadyKnown": {
+        "budget": "₹14,000 - ₹15,500",
+        "targetLocation": "Bellandur near EcoWorld Gate 2",
+        "workplace": "Flipkart Campus",
+        "foodPreference": "3 times meals included",
+        "stayDuration": "6 months"
+      },
+      "whatToConfirm": [
+        "Any questions on the rent agreement terms",
+        "Locking room #304 with ₹3,000 token before another applicant takes it",
+        "Target check-in time this Saturday"
+      ],
+      "callScriptPoints": [
+        "Hey Vikram! Rohan following up from your tour yesterday at EcoNest.",
+        "You loved room #304 with the east-facing window. We received another inquiry this morning.",
+        "Can I generate the instant UPI payment link for the ₹3,000 token right now so your room is 100% reserved?"
+      ],
+      "recommendedProperty": {
+        "id": "prop-4",
+        "title": "EcoNest Executive Suite, Outer Ring Road",
+        "locality": "Bellandur / EcoWorld, Bangalore",
+        "monthlyRent": 14500,
+        "deposit": 29000,
+        "roomType": "Shared Room",
+        "furnishing": "Fully Furnished",
+        "availableFrom": "Immediately",
+        "walkingToMetro": "3 mins to EcoWorld Gate 2",
+        "photos": [
+          "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=500&auto=format&fit=crop&q=60"
+        ]
+      },
+      "quoteAmount": 14500,
+      "depositRequired": 29000,
+      "tokenPaid": 0,
+      "moneyPending": 29000,
+      "promisedClosingTime": "2026-09-22T10:15:25.756Z",
+      "autoCustomerMessage": "Hi Vikram! To hold Room #304 at EcoNest Bellandur (₹14,500/mo), please click this secure UPI link to pay the ₹3,000 advance token: https://pay.gharpayy.com/token/eco-304. Receipt will be generated instantly.",
+      "autoNextStep": "Collect ₹3,000 token or release inventory",
+      "autoFollowUpDeadline": "2026-09-22T11:15:25.756Z",
+      "whatsappMessages": [
+        {
+          "id": "wm-7",
+          "sender": "operator",
+          "senderName": "Rohan Mehta",
+          "timestamp": "Yesterday 6:00 PM",
+          "text": "Great meeting you at EcoNest Vikram! Sent you the full pricing breakdown."
+        },
+        {
+          "id": "wm-8",
+          "sender": "customer",
+          "senderName": "Vikram Rathore",
+          "timestamp": "Yesterday 6:45 PM",
+          "text": "Thanks Rohan, really liked room 304. Just reviewing with my roommate."
+        }
+      ],
+      "updatedAt": "2026-09-22T10:45:25.756Z"
+    },
+    {
+      "id": "lead-104",
+      "name": "Kavya Iyer",
+      "phone": "+91 98200 88712",
+      "email": "kavya.iyer@swiggy.in",
+      "locality": "Koramangala 4th Block",
+      "budget": 20000,
+      "occupancyType": "Single",
+      "propertyType": "Private Room",
+      "moveInDate": "2026-10-01",
+      "stage": "booking_confirmed",
+      "owner": "Sneha Rao",
+      "deadline": "2026-09-22T12:45:25.756Z",
+      "isOverdue": false,
+      "urgency": "medium",
+      "whyWeAreCalling": "Token ₹5,000 received; collecting KYC documents and pending deposit before key handover.",
+      "whatIsAlreadyKnown": {
+        "budget": "₹19,500 / month",
+        "targetLocation": "Koramangala 4th Block",
+        "workplace": "Swiggy Corporate Office",
+        "foodPreference": "South/North Veg",
+        "stayDuration": "11 months"
+      },
+      "whatToConfirm": [
+        "Aadhaar card + Employment ID verification upload",
+        "Remaining security deposit balance payment method (NetBanking/UPI)",
+        "Move-in day luggage arrival time"
+      ],
+      "callScriptPoints": [
+        "Hi Kavya, Sneha here! Congratulations on locking Room #201 at GreenVista Koramangala.",
+        "Your advance token of ₹5,000 is safely credited. I have sent the one-click KYC portal link to your WhatsApp.",
+        "Once you upload your ID, we will generate the digital lease and code for the smart lock."
+      ],
+      "recommendedProperty": {
+        "id": "prop-3",
+        "title": "GreenVista Premium 2BHK Coliving",
+        "locality": "Koramangala 4th Block, Bangalore",
+        "monthlyRent": 19500,
+        "deposit": 39000,
+        "roomType": "Private Room",
+        "furnishing": "Fully Furnished",
+        "availableFrom": "This Weekend",
+        "walkingToMetro": "10 mins to Sony Signal",
+        "photos": [
+          "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=500&auto=format&fit=crop&q=60"
+        ]
+      },
+      "quoteAmount": 19500,
+      "depositRequired": 39000,
+      "tokenPaid": 5000,
+      "moneyPending": 34000,
+      "promisedClosingTime": "2026-09-22T14:45:25.756Z",
+      "checkInDate": "2026-10-01",
+      "kycStatus": "pending",
+      "autoCustomerMessage": "Hi Kavya! Welcome to Gharpayy GreenVista Koramangala! Your booking ID is #GV-201. Please upload your Government ID and Company Badge here for instant digital lease: https://portal.gharpayy.com/kyc/GV-201. Check-in code will activate on Oct 1st.",
+      "autoNextStep": "Verify KYC document submission and collect balance deposit ₹34,000",
+      "autoFollowUpDeadline": "2026-09-22T13:45:25.756Z",
+      "whatsappMessages": [
+        {
+          "id": "wm-9",
+          "sender": "customer",
+          "senderName": "Kavya Iyer",
+          "timestamp": "Today 9:00 AM",
+          "text": "Sent ₹5,000 via GPay! Here is the UTR: 4289018471."
+        },
+        {
+          "id": "wm-10",
+          "sender": "operator",
+          "senderName": "Sneha Rao",
+          "timestamp": "Today 9:05 AM",
+          "text": "Payment received Kavya! Room 201 is officially locked for you."
+        }
+      ],
+      "updatedAt": "2026-09-22T10:45:25.756Z"
+    },
+    {
+      "id": "lead-105",
+      "name": "Siddharth Sen",
+      "phone": "+91 97411 99234",
+      "email": "siddharth.sen@myntra.com",
+      "locality": "HSR Layout Sector 1",
+      "budget": 16000,
+      "occupancyType": "Single",
+      "propertyType": "Coliving PG",
+      "moveInDate": "2026-09-30",
+      "stage": "tour_completed",
+      "owner": "Aarav Sharma",
+      "deadline": "2026-09-22T10:20:25.756Z",
+      "isOverdue": true,
+      "overdueMinutes": 25,
+      "urgency": "high",
+      "whyWeAreCalling": "Tour finished 40 mins ago at ZenStay; operator needs to collect decision and quote price.",
+      "whatIsAlreadyKnown": {
+        "budget": "₹15,000 - ₹17,000",
+        "targetLocation": "HSR Layout near 27th Main",
+        "workplace": "Myntra Kudlu Gate",
+        "foodPreference": "Non-veg friendly",
+        "stayDuration": "1 year"
+      },
+      "whatToConfirm": [
+        "Feedback on room #104 vs #202",
+        "Deposit terms (2 months rent refundable)",
+        "Check-in date confirmation"
+      ],
+      "callScriptPoints": [
+        "Hey Siddharth! Suresh informed me your physical tour of ZenStay went great.",
+        "Which room did you prefer — the ground floor patio or the 2nd floor balcony?",
+        "We have a zero-admin fee waiver if we finalize the booking within 2 hours of the tour."
+      ],
+      "recommendedProperty": {
+        "id": "prop-1",
+        "title": "ZenStay Luxury Coliving, Sector 2",
+        "locality": "HSR Layout, Bangalore",
+        "monthlyRent": 16500,
+        "deposit": 33000,
+        "roomType": "Private Room",
+        "furnishing": "Fully Furnished",
+        "availableFrom": "Immediately",
+        "walkingToMetro": "6 mins to HSR BDA Complex",
+        "photos": [
+          "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=500&auto=format&fit=crop&q=60"
+        ]
+      },
+      "quoteAmount": 16000,
+      "depositRequired": 32000,
+      "autoCustomerMessage": "Hi Siddharth, hope you liked the tour with Suresh! Here is your exclusive quote for ZenStay HSR Room 202: Monthly Rent: ₹16,000 (all meals, wifi, cleaning incl.), Deposit: ₹32,000. Book now with ₹2,000 token: https://pay.gharpayy.com/zen-202",
+      "autoNextStep": "Collect booking confirmation or reason for hesitation",
+      "autoFollowUpDeadline": "2026-09-22T11:45:25.756Z",
+      "whatsappMessages": [
+        {
+          "id": "wm-11",
+          "sender": "customer",
+          "senderName": "Siddharth Sen",
+          "timestamp": "Today 11:30 AM",
+          "text": "Finished the visit. Liked room 202, please send me the final price breakdown."
+        }
+      ],
+      "updatedAt": "2026-09-22T10:45:25.756Z"
+    },
+    {
+      "id": "lead-106",
+      "name": "Arjun Nair",
+      "phone": "+91 98000 12340",
+      "email": "arjun.nair@amazonaws.com",
+      "locality": "HSR Layout, Bangalore",
+      "budget": 12000,
+      "occupancyType": "Single",
+      "propertyType": "Coliving PG",
+      "moveInDate": "2026-10-01",
+      "stage": "new_lead",
+      "owner": "Aarav Sharma",
+      "deadline": "2026-09-22T10:27:25.756Z",
+      "isOverdue": true,
+      "overdueMinutes": 18,
+      "urgency": "high",
+      "whyWeAreCalling": "Incoming inquiry for HSR Layout; joining Amazon AWS. Looking to finalize within 48 hours.",
+      "whatIsAlreadyKnown": {
+        "budget": "₹12,000 / month",
+        "targetLocation": "HSR Layout",
+        "workplace": "Amazon AWS Tech Park",
+        "foodPreference": "Veg meals needed",
+        "stayDuration": "9+ months"
+      },
+      "whatToConfirm": [
+        "Move-in exact date around HSR Layout",
+        "AC vs Non-AC room preference",
+        "Physical tour availability today between 3 PM and 7 PM"
+      ],
+      "callScriptPoints": [
+        "Hi Arjun, Aarav here from LeadZen Gharpayy. Saw your inquiry for a place in HSR Layout.",
+        "We have verified units right near Amazon AWS with zero brokerage and daily housekeeping.",
+        "Would you prefer checking out the place in person today or should I share a 360 video walkthrough first?"
+      ],
+      "autoCustomerMessage": "Hi Arjun, thanks for speaking with Aarav Sharma. Details for our verified PG/1BHK in HSR Layout (₹12,000/mo) sent. Let's lock your tour slot!",
+      "autoNextStep": "Call to qualify budget & schedule tour",
+      "autoFollowUpDeadline": "2026-09-22T11:45:25.756Z",
+      "whatsappMessages": [
+        {
+          "id": "wm-gen-0-1",
+          "sender": "customer",
+          "senderName": "Arjun Nair",
+          "timestamp": "Today 10:00 AM",
+          "text": "Hi, looking for accommodation near HSR Layout around 12000. Any options?"
+        },
+        {
+          "id": "wm-gen-0-2",
+          "sender": "operator",
+          "senderName": "Aarav Sharma",
+          "timestamp": "Today 10:05 AM",
+          "text": "Hello Arjun! Yes, we have 2 great options available. Let me call you with the exact photos and rent details."
+        }
+      ],
+      "updatedAt": "2026-09-22T10:45:25.760Z"
+    },
+    {
+      "id": "lead-107",
+      "name": "Meera Chopra",
+      "phone": "+91 98111 12341",
+      "email": "meera.chopra@razorpay.com",
+      "locality": "Indiranagar, Bangalore",
+      "budget": 14500,
+      "occupancyType": "Double",
+      "propertyType": "Coliving PG",
+      "moveInDate": "2026-10-01",
+      "stage": "contacted",
+      "owner": "Pooja Hegde",
+      "deadline": "2026-09-22T11:55:25.756Z",
+      "isOverdue": false,
+      "overdueMinutes": 0,
+      "urgency": "low",
+      "whyWeAreCalling": "Incoming inquiry for Indiranagar; joining Razorpay. Looking to finalize within 48 hours.",
+      "whatIsAlreadyKnown": {
+        "budget": "₹14,500 / month",
+        "targetLocation": "Indiranagar",
+        "workplace": "Razorpay Tech Park",
+        "foodPreference": "Flexible food options",
+        "stayDuration": "9+ months"
+      },
+      "whatToConfirm": [
+        "Move-in exact date around Indiranagar",
+        "AC vs Non-AC room preference",
+        "Physical tour availability today between 3 PM and 7 PM"
+      ],
+      "callScriptPoints": [
+        "Hi Meera, Pooja here from LeadZen Gharpayy. Saw your inquiry for a place in Indiranagar.",
+        "We have verified units right near Razorpay with zero brokerage and daily housekeeping.",
+        "Would you prefer checking out the place in person today or should I share a 360 video walkthrough first?"
+      ],
+      "autoCustomerMessage": "Hi Meera, thanks for speaking with Pooja Hegde. Details for our verified PG/1BHK in Indiranagar (₹14,500/mo) sent. Let's lock your tour slot!",
+      "autoNextStep": "Follow up on inspection decision",
+      "autoFollowUpDeadline": "2026-09-22T11:45:25.756Z",
+      "whatsappMessages": [
+        {
+          "id": "wm-gen-1-1",
+          "sender": "customer",
+          "senderName": "Meera Chopra",
+          "timestamp": "Today 10:00 AM",
+          "text": "Hi, looking for accommodation near Indiranagar around 14500. Any options?"
+        },
+        {
+          "id": "wm-gen-1-2",
+          "sender": "operator",
+          "senderName": "Pooja Hegde",
+          "timestamp": "Today 10:05 AM",
+          "text": "Hello Meera! Yes, we have 2 great options available. Let me call you with the exact photos and rent details."
+        }
+      ],
+      "updatedAt": "2026-09-22T10:45:25.760Z"
+    },
+    {
+      "id": "lead-108",
+      "name": "Tanvi Bose",
+      "phone": "+91 98222 12342",
+      "email": "tanvi.bose@infosys.com",
+      "locality": "Koramangala, Bangalore",
+      "budget": 17000,
+      "occupancyType": "Single",
+      "propertyType": "Coliving PG",
+      "moveInDate": "2026-10-01",
+      "stage": "tour_scheduled",
+      "owner": "Rohan Mehta",
+      "deadline": "2026-09-22T12:30:25.756Z",
+      "isOverdue": false,
+      "overdueMinutes": 0,
+      "urgency": "medium",
+      "whyWeAreCalling": "Incoming inquiry for Koramangala; joining Infosys. Looking to finalize within 48 hours.",
+      "whatIsAlreadyKnown": {
+        "budget": "₹17,000 / month",
+        "targetLocation": "Koramangala",
+        "workplace": "Infosys Tech Park",
+        "foodPreference": "Veg meals needed",
+        "stayDuration": "9+ months"
+      },
+      "whatToConfirm": [
+        "Move-in exact date around Koramangala",
+        "AC vs Non-AC room preference",
+        "Physical tour availability today between 3 PM and 7 PM"
+      ],
+      "callScriptPoints": [
+        "Hi Tanvi, Rohan here from LeadZen Gharpayy. Saw your inquiry for a place in Koramangala.",
+        "We have verified units right near Infosys with zero brokerage and daily housekeeping.",
+        "Would you prefer checking out the place in person today or should I share a 360 video walkthrough first?"
+      ],
+      "autoCustomerMessage": "Hi Tanvi, thanks for speaking with Rohan Mehta. Details for our verified PG/1BHK in Koramangala (₹17,000/mo) sent. Let's lock your tour slot!",
+      "autoNextStep": "Follow up on inspection decision",
+      "autoFollowUpDeadline": "2026-09-22T11:45:25.756Z",
+      "whatsappMessages": [
+        {
+          "id": "wm-gen-2-1",
+          "sender": "customer",
+          "senderName": "Tanvi Bose",
+          "timestamp": "Today 10:00 AM",
+          "text": "Hi, looking for accommodation near Koramangala around 17000. Any options?"
+        },
+        {
+          "id": "wm-gen-2-2",
+          "sender": "operator",
+          "senderName": "Rohan Mehta",
+          "timestamp": "Today 10:05 AM",
+          "text": "Hello Tanvi! Yes, we have 2 great options available. Let me call you with the exact photos and rent details."
+        }
+      ],
+      "updatedAt": "2026-09-22T10:45:25.760Z"
+    },
+    {
+      "id": "lead-109",
+      "name": "Deepak Joshi",
+      "phone": "+91 98333 12343",
+      "email": "deepak.joshi@cred.com",
+      "locality": "Bellandur, Bangalore",
+      "budget": 19500,
+      "occupancyType": "Double",
+      "propertyType": "Coliving PG",
+      "moveInDate": "2026-10-01",
+      "stage": "tour_completed",
+      "owner": "Sneha Rao",
+      "deadline": "2026-09-22T09:33:25.756Z",
+      "isOverdue": true,
+      "overdueMinutes": 72,
+      "urgency": "high",
+      "whyWeAreCalling": "Incoming inquiry for Bellandur; joining Cred. Looking to finalize within 48 hours.",
+      "whatIsAlreadyKnown": {
+        "budget": "₹19,500 / month",
+        "targetLocation": "Bellandur",
+        "workplace": "Cred Tech Park",
+        "foodPreference": "Flexible food options",
+        "stayDuration": "9+ months"
+      },
+      "whatToConfirm": [
+        "Move-in exact date around Bellandur",
+        "AC vs Non-AC room preference",
+        "Physical tour availability today between 3 PM and 7 PM"
+      ],
+      "callScriptPoints": [
+        "Hi Deepak, Sneha here from LeadZen Gharpayy. Saw your inquiry for a place in Bellandur.",
+        "We have verified units right near Cred with zero brokerage and daily housekeeping.",
+        "Would you prefer checking out the place in person today or should I share a 360 video walkthrough first?"
+      ],
+      "autoCustomerMessage": "Hi Deepak, thanks for speaking with Sneha Rao. Details for our verified PG/1BHK in Bellandur (₹19,500/mo) sent. Let's lock your tour slot!",
+      "autoNextStep": "Follow up on inspection decision",
+      "autoFollowUpDeadline": "2026-09-22T11:45:25.756Z",
+      "whatsappMessages": [
+        {
+          "id": "wm-gen-3-1",
+          "sender": "customer",
+          "senderName": "Deepak Joshi",
+          "timestamp": "Today 10:00 AM",
+          "text": "Hi, looking for accommodation near Bellandur around 19500. Any options?"
+        },
+        {
+          "id": "wm-gen-3-2",
+          "sender": "operator",
+          "senderName": "Sneha Rao",
+          "timestamp": "Today 10:05 AM",
+          "text": "Hello Deepak! Yes, we have 2 great options available. Let me call you with the exact photos and rent details."
+        }
+      ],
+      "updatedAt": "2026-09-22T10:45:25.760Z"
+    },
+    {
+      "id": "lead-110",
+      "name": "Naveen Banerjee",
+      "phone": "+91 98444 12344",
+      "email": "naveen.banerjee@swiggy.com",
+      "locality": "Whitefield, Bangalore",
+      "budget": 22000,
+      "occupancyType": "Single",
+      "propertyType": "Coliving PG",
+      "moveInDate": "2026-10-01",
+      "stage": "quote_sent",
+      "owner": "Aarav Sharma",
+      "deadline": "2026-09-22T13:40:25.756Z",
+      "isOverdue": false,
+      "overdueMinutes": 0,
+      "urgency": "medium",
+      "whyWeAreCalling": "Incoming inquiry for Whitefield; joining Swiggy. Looking to finalize within 48 hours.",
+      "whatIsAlreadyKnown": {
+        "budget": "₹22,000 / month",
+        "targetLocation": "Whitefield",
+        "workplace": "Swiggy Tech Park",
+        "foodPreference": "Veg meals needed",
+        "stayDuration": "9+ months"
+      },
+      "whatToConfirm": [
+        "Move-in exact date around Whitefield",
+        "AC vs Non-AC room preference",
+        "Physical tour availability today between 3 PM and 7 PM"
+      ],
+      "callScriptPoints": [
+        "Hi Naveen, Aarav here from LeadZen Gharpayy. Saw your inquiry for a place in Whitefield.",
+        "We have verified units right near Swiggy with zero brokerage and daily housekeeping.",
+        "Would you prefer checking out the place in person today or should I share a 360 video walkthrough first?"
+      ],
+      "autoCustomerMessage": "Hi Naveen, thanks for speaking with Aarav Sharma. Details for our verified PG/1BHK in Whitefield (₹22,000/mo) sent. Let's lock your tour slot!",
+      "autoNextStep": "Follow up on inspection decision",
+      "autoFollowUpDeadline": "2026-09-22T11:45:25.756Z",
+      "whatsappMessages": [
+        {
+          "id": "wm-gen-4-1",
+          "sender": "customer",
+          "senderName": "Naveen Banerjee",
+          "timestamp": "Today 10:00 AM",
+          "text": "Hi, looking for accommodation near Whitefield around 22000. Any options?"
+        },
+        {
+          "id": "wm-gen-4-2",
+          "sender": "operator",
+          "senderName": "Aarav Sharma",
+          "timestamp": "Today 10:05 AM",
+          "text": "Hello Naveen! Yes, we have 2 great options available. Let me call you with the exact photos and rent details."
+        }
+      ],
+      "updatedAt": "2026-09-22T10:45:25.760Z"
+    },
+    {
+      "id": "lead-111",
+      "name": "Divya Nair",
+      "phone": "+91 98555 12345",
+      "email": "divya.nair@phonepe.com",
+      "locality": "Marathahalli, Bangalore",
+      "budget": 24500,
+      "occupancyType": "Double",
+      "propertyType": "1 BHK",
+      "moveInDate": "2026-10-01",
+      "stage": "decision_pending",
+      "owner": "Pooja Hegde",
+      "deadline": "2026-09-22T14:15:25.756Z",
+      "isOverdue": false,
+      "overdueMinutes": 0,
+      "urgency": "low",
+      "whyWeAreCalling": "Incoming inquiry for Marathahalli; joining PhonePe. Looking to finalize within 48 hours.",
+      "whatIsAlreadyKnown": {
+        "budget": "₹24,500 / month",
+        "targetLocation": "Marathahalli",
+        "workplace": "PhonePe Tech Park",
+        "foodPreference": "Flexible food options",
+        "stayDuration": "9+ months"
+      },
+      "whatToConfirm": [
+        "Move-in exact date around Marathahalli",
+        "AC vs Non-AC room preference",
+        "Physical tour availability today between 3 PM and 7 PM"
+      ],
+      "callScriptPoints": [
+        "Hi Divya, Pooja here from LeadZen Gharpayy. Saw your inquiry for a place in Marathahalli.",
+        "We have verified units right near PhonePe with zero brokerage and daily housekeeping.",
+        "Would you prefer checking out the place in person today or should I share a 360 video walkthrough first?"
+      ],
+      "autoCustomerMessage": "Hi Divya, thanks for speaking with Pooja Hegde. Details for our verified PG/1BHK in Marathahalli (₹24,500/mo) sent. Let's lock your tour slot!",
+      "autoNextStep": "Follow up on inspection decision",
+      "autoFollowUpDeadline": "2026-09-22T11:45:25.756Z",
+      "whatsappMessages": [
+        {
+          "id": "wm-gen-5-1",
+          "sender": "customer",
+          "senderName": "Divya Nair",
+          "timestamp": "Today 10:00 AM",
+          "text": "Hi, looking for accommodation near Marathahalli around 24500. Any options?"
+        },
+        {
+          "id": "wm-gen-5-2",
+          "sender": "operator",
+          "senderName": "Pooja Hegde",
+          "timestamp": "Today 10:05 AM",
+          "text": "Hello Divya! Yes, we have 2 great options available. Let me call you with the exact photos and rent details."
+        }
+      ],
+      "updatedAt": "2026-09-22T10:45:25.760Z"
+    },
+    {
+      "id": "lead-112",
+      "name": "Varun Chopra",
+      "phone": "+91 98666 12346",
+      "email": "varun.chopra@ubertech.com",
+      "locality": "BTM Layout, Bangalore",
+      "budget": 12000,
+      "occupancyType": "Single",
+      "propertyType": "Coliving PG",
+      "moveInDate": "2026-10-01",
+      "stage": "money_pending",
+      "owner": "Rohan Mehta",
+      "deadline": "2026-09-22T08:39:25.756Z",
+      "isOverdue": true,
+      "overdueMinutes": 126,
+      "urgency": "high",
+      "whyWeAreCalling": "Incoming inquiry for BTM Layout; joining Uber Tech. Looking to finalize within 48 hours.",
+      "whatIsAlreadyKnown": {
+        "budget": "₹12,000 / month",
+        "targetLocation": "BTM Layout",
+        "workplace": "Uber Tech Tech Park",
+        "foodPreference": "Veg meals needed",
+        "stayDuration": "9+ months"
+      },
+      "whatToConfirm": [
+        "Move-in exact date around BTM Layout",
+        "AC vs Non-AC room preference",
+        "Physical tour availability today between 3 PM and 7 PM"
+      ],
+      "callScriptPoints": [
+        "Hi Varun, Rohan here from LeadZen Gharpayy. Saw your inquiry for a place in BTM Layout.",
+        "We have verified units right near Uber Tech with zero brokerage and daily housekeeping.",
+        "Would you prefer checking out the place in person today or should I share a 360 video walkthrough first?"
+      ],
+      "autoCustomerMessage": "Hi Varun, thanks for speaking with Rohan Mehta. Details for our verified PG/1BHK in BTM Layout (₹12,000/mo) sent. Let's lock your tour slot!",
+      "autoNextStep": "Follow up on inspection decision",
+      "autoFollowUpDeadline": "2026-09-22T11:45:25.756Z",
+      "whatsappMessages": [
+        {
+          "id": "wm-gen-6-1",
+          "sender": "customer",
+          "senderName": "Varun Chopra",
+          "timestamp": "Today 10:00 AM",
+          "text": "Hi, looking for accommodation near BTM Layout around 12000. Any options?"
+        },
+        {
+          "id": "wm-gen-6-2",
+          "sender": "operator",
+          "senderName": "Rohan Mehta",
+          "timestamp": "Today 10:05 AM",
+          "text": "Hello Varun! Yes, we have 2 great options available. Let me call you with the exact photos and rent details."
+        }
+      ],
+      "updatedAt": "2026-09-22T10:45:25.760Z"
+    },
+    {
+      "id": "lead-113",
+      "name": "Rhea Bose",
+      "phone": "+91 98777 12347",
+      "email": "rhea.bose@oracle.com",
+      "locality": "HSR Layout, Bangalore",
+      "budget": 14500,
+      "occupancyType": "Double",
+      "propertyType": "Coliving PG",
+      "moveInDate": "2026-10-01",
+      "stage": "new_lead",
+      "owner": "Sneha Rao",
+      "deadline": "2026-09-22T15:25:25.756Z",
+      "isOverdue": false,
+      "overdueMinutes": 0,
+      "urgency": "low",
+      "whyWeAreCalling": "Incoming inquiry for HSR Layout; joining Oracle. Looking to finalize within 48 hours.",
+      "whatIsAlreadyKnown": {
+        "budget": "₹14,500 / month",
+        "targetLocation": "HSR Layout",
+        "workplace": "Oracle Tech Park",
+        "foodPreference": "Flexible food options",
+        "stayDuration": "9+ months"
+      },
+      "whatToConfirm": [
+        "Move-in exact date around HSR Layout",
+        "AC vs Non-AC room preference",
+        "Physical tour availability today between 3 PM and 7 PM"
+      ],
+      "callScriptPoints": [
+        "Hi Rhea, Sneha here from LeadZen Gharpayy. Saw your inquiry for a place in HSR Layout.",
+        "We have verified units right near Oracle with zero brokerage and daily housekeeping.",
+        "Would you prefer checking out the place in person today or should I share a 360 video walkthrough first?"
+      ],
+      "autoCustomerMessage": "Hi Rhea, thanks for speaking with Sneha Rao. Details for our verified PG/1BHK in HSR Layout (₹14,500/mo) sent. Let's lock your tour slot!",
+      "autoNextStep": "Call to qualify budget & schedule tour",
+      "autoFollowUpDeadline": "2026-09-22T11:45:25.756Z",
+      "whatsappMessages": [
+        {
+          "id": "wm-gen-7-1",
+          "sender": "customer",
+          "senderName": "Rhea Bose",
+          "timestamp": "Today 10:00 AM",
+          "text": "Hi, looking for accommodation near HSR Layout around 14500. Any options?"
+        },
+        {
+          "id": "wm-gen-7-2",
+          "sender": "operator",
+          "senderName": "Sneha Rao",
+          "timestamp": "Today 10:05 AM",
+          "text": "Hello Rhea! Yes, we have 2 great options available. Let me call you with the exact photos and rent details."
+        }
+      ],
+      "updatedAt": "2026-09-22T10:45:25.760Z"
+    },
+    {
+      "id": "lead-114",
+      "name": "Rahul Joshi",
+      "phone": "+91 98888 12348",
+      "email": "rahul.joshi@amazonaws.com",
+      "locality": "Indiranagar, Bangalore",
+      "budget": 17000,
+      "occupancyType": "Single",
+      "propertyType": "Coliving PG",
+      "moveInDate": "2026-10-01",
+      "stage": "contacted",
+      "owner": "Aarav Sharma",
+      "deadline": "2026-09-22T16:00:25.756Z",
+      "isOverdue": false,
+      "overdueMinutes": 0,
+      "urgency": "medium",
+      "whyWeAreCalling": "Incoming inquiry for Indiranagar; joining Amazon AWS. Looking to finalize within 48 hours.",
+      "whatIsAlreadyKnown": {
+        "budget": "₹17,000 / month",
+        "targetLocation": "Indiranagar",
+        "workplace": "Amazon AWS Tech Park",
+        "foodPreference": "Veg meals needed",
+        "stayDuration": "9+ months"
+      },
+      "whatToConfirm": [
+        "Move-in exact date around Indiranagar",
+        "AC vs Non-AC room preference",
+        "Physical tour availability today between 3 PM and 7 PM"
+      ],
+      "callScriptPoints": [
+        "Hi Rahul, Aarav here from LeadZen Gharpayy. Saw your inquiry for a place in Indiranagar.",
+        "We have verified units right near Amazon AWS with zero brokerage and daily housekeeping.",
+        "Would you prefer checking out the place in person today or should I share a 360 video walkthrough first?"
+      ],
+      "autoCustomerMessage": "Hi Rahul, thanks for speaking with Aarav Sharma. Details for our verified PG/1BHK in Indiranagar (₹17,000/mo) sent. Let's lock your tour slot!",
+      "autoNextStep": "Follow up on inspection decision",
+      "autoFollowUpDeadline": "2026-09-22T11:45:25.756Z",
+      "whatsappMessages": [
+        {
+          "id": "wm-gen-8-1",
+          "sender": "customer",
+          "senderName": "Rahul Joshi",
+          "timestamp": "Today 10:00 AM",
+          "text": "Hi, looking for accommodation near Indiranagar around 17000. Any options?"
+        },
+        {
+          "id": "wm-gen-8-2",
+          "sender": "operator",
+          "senderName": "Aarav Sharma",
+          "timestamp": "Today 10:05 AM",
+          "text": "Hello Rahul! Yes, we have 2 great options available. Let me call you with the exact photos and rent details."
+        }
+      ],
+      "updatedAt": "2026-09-22T10:45:25.760Z"
+    },
+    {
+      "id": "lead-115",
+      "name": "Neha Banerjee",
+      "phone": "+91 98999 12349",
+      "email": "neha.banerjee@razorpay.com",
+      "locality": "Koramangala, Bangalore",
+      "budget": 19500,
+      "occupancyType": "Double",
+      "propertyType": "Coliving PG",
+      "moveInDate": "2026-10-01",
+      "stage": "tour_scheduled",
+      "owner": "Pooja Hegde",
+      "deadline": "2026-09-22T07:45:25.756Z",
+      "isOverdue": true,
+      "overdueMinutes": 180,
+      "urgency": "high",
+      "whyWeAreCalling": "Incoming inquiry for Koramangala; joining Razorpay. Looking to finalize within 48 hours.",
+      "whatIsAlreadyKnown": {
+        "budget": "₹19,500 / month",
+        "targetLocation": "Koramangala",
+        "workplace": "Razorpay Tech Park",
+        "foodPreference": "Flexible food options",
+        "stayDuration": "9+ months"
+      },
+      "whatToConfirm": [
+        "Move-in exact date around Koramangala",
+        "AC vs Non-AC room preference",
+        "Physical tour availability today between 3 PM and 7 PM"
+      ],
+      "callScriptPoints": [
+        "Hi Neha, Pooja here from LeadZen Gharpayy. Saw your inquiry for a place in Koramangala.",
+        "We have verified units right near Razorpay with zero brokerage and daily housekeeping.",
+        "Would you prefer checking out the place in person today or should I share a 360 video walkthrough first?"
+      ],
+      "autoCustomerMessage": "Hi Neha, thanks for speaking with Pooja Hegde. Details for our verified PG/1BHK in Koramangala (₹19,500/mo) sent. Let's lock your tour slot!",
+      "autoNextStep": "Follow up on inspection decision",
+      "autoFollowUpDeadline": "2026-09-22T11:45:25.756Z",
+      "whatsappMessages": [
+        {
+          "id": "wm-gen-9-1",
+          "sender": "customer",
+          "senderName": "Neha Banerjee",
+          "timestamp": "Today 10:00 AM",
+          "text": "Hi, looking for accommodation near Koramangala around 19500. Any options?"
+        },
+        {
+          "id": "wm-gen-9-2",
+          "sender": "operator",
+          "senderName": "Pooja Hegde",
+          "timestamp": "Today 10:05 AM",
+          "text": "Hello Neha! Yes, we have 2 great options available. Let me call you with the exact photos and rent details."
+        }
+      ],
+      "updatedAt": "2026-09-22T10:45:25.760Z"
+    },
+    {
+      "id": "lead-116",
+      "name": "Prateek Nair",
+      "phone": "+91 99110 12350",
+      "email": "prateek.nair@infosys.com",
+      "locality": "Bellandur, Bangalore",
+      "budget": 22000,
+      "occupancyType": "Single",
+      "propertyType": "Coliving PG",
+      "moveInDate": "2026-10-01",
+      "stage": "tour_completed",
+      "owner": "Rohan Mehta",
+      "deadline": "2026-09-22T17:10:25.756Z",
+      "isOverdue": false,
+      "overdueMinutes": 0,
+      "urgency": "medium",
+      "whyWeAreCalling": "Incoming inquiry for Bellandur; joining Infosys. Looking to finalize within 48 hours.",
+      "whatIsAlreadyKnown": {
+        "budget": "₹22,000 / month",
+        "targetLocation": "Bellandur",
+        "workplace": "Infosys Tech Park",
+        "foodPreference": "Veg meals needed",
+        "stayDuration": "9+ months"
+      },
+      "whatToConfirm": [
+        "Move-in exact date around Bellandur",
+        "AC vs Non-AC room preference",
+        "Physical tour availability today between 3 PM and 7 PM"
+      ],
+      "callScriptPoints": [
+        "Hi Prateek, Rohan here from LeadZen Gharpayy. Saw your inquiry for a place in Bellandur.",
+        "We have verified units right near Infosys with zero brokerage and daily housekeeping.",
+        "Would you prefer checking out the place in person today or should I share a 360 video walkthrough first?"
+      ],
+      "autoCustomerMessage": "Hi Prateek, thanks for speaking with Rohan Mehta. Details for our verified PG/1BHK in Bellandur (₹22,000/mo) sent. Let's lock your tour slot!",
+      "autoNextStep": "Follow up on inspection decision",
+      "autoFollowUpDeadline": "2026-09-22T11:45:25.756Z",
+      "whatsappMessages": [
+        {
+          "id": "wm-gen-10-1",
+          "sender": "customer",
+          "senderName": "Prateek Nair",
+          "timestamp": "Today 10:00 AM",
+          "text": "Hi, looking for accommodation near Bellandur around 22000. Any options?"
+        },
+        {
+          "id": "wm-gen-10-2",
+          "sender": "operator",
+          "senderName": "Rohan Mehta",
+          "timestamp": "Today 10:05 AM",
+          "text": "Hello Prateek! Yes, we have 2 great options available. Let me call you with the exact photos and rent details."
+        }
+      ],
+      "updatedAt": "2026-09-22T10:45:25.760Z"
+    },
+    {
+      "id": "lead-117",
+      "name": "Shreya Chopra",
+      "phone": "+91 99221 12351",
+      "email": "shreya.chopra@cred.com",
+      "locality": "Whitefield, Bangalore",
+      "budget": 24500,
+      "occupancyType": "Double",
+      "propertyType": "1 BHK",
+      "moveInDate": "2026-10-01",
+      "stage": "quote_sent",
+      "owner": "Sneha Rao",
+      "deadline": "2026-09-22T17:45:25.756Z",
+      "isOverdue": false,
+      "overdueMinutes": 0,
+      "urgency": "low",
+      "whyWeAreCalling": "Incoming inquiry for Whitefield; joining Cred. Looking to finalize within 48 hours.",
+      "whatIsAlreadyKnown": {
+        "budget": "₹24,500 / month",
+        "targetLocation": "Whitefield",
+        "workplace": "Cred Tech Park",
+        "foodPreference": "Flexible food options",
+        "stayDuration": "9+ months"
+      },
+      "whatToConfirm": [
+        "Move-in exact date around Whitefield",
+        "AC vs Non-AC room preference",
+        "Physical tour availability today between 3 PM and 7 PM"
+      ],
+      "callScriptPoints": [
+        "Hi Shreya, Sneha here from LeadZen Gharpayy. Saw your inquiry for a place in Whitefield.",
+        "We have verified units right near Cred with zero brokerage and daily housekeeping.",
+        "Would you prefer checking out the place in person today or should I share a 360 video walkthrough first?"
+      ],
+      "autoCustomerMessage": "Hi Shreya, thanks for speaking with Sneha Rao. Details for our verified PG/1BHK in Whitefield (₹24,500/mo) sent. Let's lock your tour slot!",
+      "autoNextStep": "Follow up on inspection decision",
+      "autoFollowUpDeadline": "2026-09-22T11:45:25.756Z",
+      "whatsappMessages": [
+        {
+          "id": "wm-gen-11-1",
+          "sender": "customer",
+          "senderName": "Shreya Chopra",
+          "timestamp": "Today 10:00 AM",
+          "text": "Hi, looking for accommodation near Whitefield around 24500. Any options?"
+        },
+        {
+          "id": "wm-gen-11-2",
+          "sender": "operator",
+          "senderName": "Sneha Rao",
+          "timestamp": "Today 10:05 AM",
+          "text": "Hello Shreya! Yes, we have 2 great options available. Let me call you with the exact photos and rent details."
+        }
+      ],
+      "updatedAt": "2026-09-22T10:45:25.760Z"
+    },
+    {
+      "id": "lead-118",
+      "name": "Kiran Bose",
+      "phone": "+91 99332 12352",
+      "email": "kiran.bose@swiggy.com",
+      "locality": "Marathahalli, Bangalore",
+      "budget": 12000,
+      "occupancyType": "Single",
+      "propertyType": "Coliving PG",
+      "moveInDate": "2026-10-01",
+      "stage": "decision_pending",
+      "owner": "Aarav Sharma",
+      "deadline": "2026-09-22T06:51:25.756Z",
+      "isOverdue": true,
+      "overdueMinutes": 234,
+      "urgency": "high",
+      "whyWeAreCalling": "Incoming inquiry for Marathahalli; joining Swiggy. Looking to finalize within 48 hours.",
+      "whatIsAlreadyKnown": {
+        "budget": "₹12,000 / month",
+        "targetLocation": "Marathahalli",
+        "workplace": "Swiggy Tech Park",
+        "foodPreference": "Veg meals needed",
+        "stayDuration": "9+ months"
+      },
+      "whatToConfirm": [
+        "Move-in exact date around Marathahalli",
+        "AC vs Non-AC room preference",
+        "Physical tour availability today between 3 PM and 7 PM"
+      ],
+      "callScriptPoints": [
+        "Hi Kiran, Aarav here from LeadZen Gharpayy. Saw your inquiry for a place in Marathahalli.",
+        "We have verified units right near Swiggy with zero brokerage and daily housekeeping.",
+        "Would you prefer checking out the place in person today or should I share a 360 video walkthrough first?"
+      ],
+      "autoCustomerMessage": "Hi Kiran, thanks for speaking with Aarav Sharma. Details for our verified PG/1BHK in Marathahalli (₹12,000/mo) sent. Let's lock your tour slot!",
+      "autoNextStep": "Follow up on inspection decision",
+      "autoFollowUpDeadline": "2026-09-22T11:45:25.756Z",
+      "whatsappMessages": [
+        {
+          "id": "wm-gen-12-1",
+          "sender": "customer",
+          "senderName": "Kiran Bose",
+          "timestamp": "Today 10:00 AM",
+          "text": "Hi, looking for accommodation near Marathahalli around 12000. Any options?"
+        },
+        {
+          "id": "wm-gen-12-2",
+          "sender": "operator",
+          "senderName": "Aarav Sharma",
+          "timestamp": "Today 10:05 AM",
+          "text": "Hello Kiran! Yes, we have 2 great options available. Let me call you with the exact photos and rent details."
+        }
+      ],
+      "updatedAt": "2026-09-22T10:45:25.760Z"
+    },
+    {
+      "id": "lead-119",
+      "name": "Manish Joshi",
+      "phone": "+91 99443 12353",
+      "email": "manish.joshi@phonepe.com",
+      "locality": "BTM Layout, Bangalore",
+      "budget": 14500,
+      "occupancyType": "Double",
+      "propertyType": "Coliving PG",
+      "moveInDate": "2026-10-01",
+      "stage": "money_pending",
+      "owner": "Pooja Hegde",
+      "deadline": "2026-09-22T18:55:25.756Z",
+      "isOverdue": false,
+      "overdueMinutes": 0,
+      "urgency": "low",
+      "whyWeAreCalling": "Incoming inquiry for BTM Layout; joining PhonePe. Looking to finalize within 48 hours.",
+      "whatIsAlreadyKnown": {
+        "budget": "₹14,500 / month",
+        "targetLocation": "BTM Layout",
+        "workplace": "PhonePe Tech Park",
+        "foodPreference": "Flexible food options",
+        "stayDuration": "9+ months"
+      },
+      "whatToConfirm": [
+        "Move-in exact date around BTM Layout",
+        "AC vs Non-AC room preference",
+        "Physical tour availability today between 3 PM and 7 PM"
+      ],
+      "callScriptPoints": [
+        "Hi Manish, Pooja here from LeadZen Gharpayy. Saw your inquiry for a place in BTM Layout.",
+        "We have verified units right near PhonePe with zero brokerage and daily housekeeping.",
+        "Would you prefer checking out the place in person today or should I share a 360 video walkthrough first?"
+      ],
+      "autoCustomerMessage": "Hi Manish, thanks for speaking with Pooja Hegde. Details for our verified PG/1BHK in BTM Layout (₹14,500/mo) sent. Let's lock your tour slot!",
+      "autoNextStep": "Follow up on inspection decision",
+      "autoFollowUpDeadline": "2026-09-22T11:45:25.756Z",
+      "whatsappMessages": [
+        {
+          "id": "wm-gen-13-1",
+          "sender": "customer",
+          "senderName": "Manish Joshi",
+          "timestamp": "Today 10:00 AM",
+          "text": "Hi, looking for accommodation near BTM Layout around 14500. Any options?"
+        },
+        {
+          "id": "wm-gen-13-2",
+          "sender": "operator",
+          "senderName": "Pooja Hegde",
+          "timestamp": "Today 10:05 AM",
+          "text": "Hello Manish! Yes, we have 2 great options available. Let me call you with the exact photos and rent details."
+        }
+      ],
+      "updatedAt": "2026-09-22T10:45:25.760Z"
+    },
+    {
+      "id": "lead-120",
+      "name": "Tara Banerjee",
+      "phone": "+91 99554 12354",
+      "email": "tara.banerjee@ubertech.com",
+      "locality": "HSR Layout, Bangalore",
+      "budget": 17000,
+      "occupancyType": "Single",
+      "propertyType": "Coliving PG",
+      "moveInDate": "2026-10-01",
+      "stage": "new_lead",
+      "owner": "Rohan Mehta",
+      "deadline": "2026-09-22T19:30:25.756Z",
+      "isOverdue": false,
+      "overdueMinutes": 0,
+      "urgency": "medium",
+      "whyWeAreCalling": "Incoming inquiry for HSR Layout; joining Uber Tech. Looking to finalize within 48 hours.",
+      "whatIsAlreadyKnown": {
+        "budget": "₹17,000 / month",
+        "targetLocation": "HSR Layout",
+        "workplace": "Uber Tech Tech Park",
+        "foodPreference": "Veg meals needed",
+        "stayDuration": "9+ months"
+      },
+      "whatToConfirm": [
+        "Move-in exact date around HSR Layout",
+        "AC vs Non-AC room preference",
+        "Physical tour availability today between 3 PM and 7 PM"
+      ],
+      "callScriptPoints": [
+        "Hi Tara, Rohan here from LeadZen Gharpayy. Saw your inquiry for a place in HSR Layout.",
+        "We have verified units right near Uber Tech with zero brokerage and daily housekeeping.",
+        "Would you prefer checking out the place in person today or should I share a 360 video walkthrough first?"
+      ],
+      "autoCustomerMessage": "Hi Tara, thanks for speaking with Rohan Mehta. Details for our verified PG/1BHK in HSR Layout (₹17,000/mo) sent. Let's lock your tour slot!",
+      "autoNextStep": "Call to qualify budget & schedule tour",
+      "autoFollowUpDeadline": "2026-09-22T11:45:25.756Z",
+      "whatsappMessages": [
+        {
+          "id": "wm-gen-14-1",
+          "sender": "customer",
+          "senderName": "Tara Banerjee",
+          "timestamp": "Today 10:00 AM",
+          "text": "Hi, looking for accommodation near HSR Layout around 17000. Any options?"
+        },
+        {
+          "id": "wm-gen-14-2",
+          "sender": "operator",
+          "senderName": "Rohan Mehta",
+          "timestamp": "Today 10:05 AM",
+          "text": "Hello Tara! Yes, we have 2 great options available. Let me call you with the exact photos and rent details."
+        }
+      ],
+      "updatedAt": "2026-09-22T10:45:25.760Z"
+    },
+    {
+      "id": "lead-121",
+      "name": "Aditya Nair",
+      "phone": "+91 99665 12355",
+      "email": "aditya.nair@oracle.com",
+      "locality": "Indiranagar, Bangalore",
+      "budget": 19500,
+      "occupancyType": "Double",
+      "propertyType": "Coliving PG",
+      "moveInDate": "2026-10-01",
+      "stage": "contacted",
+      "owner": "Sneha Rao",
+      "deadline": "2026-09-22T05:57:25.756Z",
+      "isOverdue": true,
+      "overdueMinutes": 288,
+      "urgency": "high",
+      "whyWeAreCalling": "Incoming inquiry for Indiranagar; joining Oracle. Looking to finalize within 48 hours.",
+      "whatIsAlreadyKnown": {
+        "budget": "₹19,500 / month",
+        "targetLocation": "Indiranagar",
+        "workplace": "Oracle Tech Park",
+        "foodPreference": "Flexible food options",
+        "stayDuration": "9+ months"
+      },
+      "whatToConfirm": [
+        "Move-in exact date around Indiranagar",
+        "AC vs Non-AC room preference",
+        "Physical tour availability today between 3 PM and 7 PM"
+      ],
+      "callScriptPoints": [
+        "Hi Aditya, Sneha here from LeadZen Gharpayy. Saw your inquiry for a place in Indiranagar.",
+        "We have verified units right near Oracle with zero brokerage and daily housekeeping.",
+        "Would you prefer checking out the place in person today or should I share a 360 video walkthrough first?"
+      ],
+      "autoCustomerMessage": "Hi Aditya, thanks for speaking with Sneha Rao. Details for our verified PG/1BHK in Indiranagar (₹19,500/mo) sent. Let's lock your tour slot!",
+      "autoNextStep": "Follow up on inspection decision",
+      "autoFollowUpDeadline": "2026-09-22T11:45:25.756Z",
+      "whatsappMessages": [
+        {
+          "id": "wm-gen-15-1",
+          "sender": "customer",
+          "senderName": "Aditya Nair",
+          "timestamp": "Today 10:00 AM",
+          "text": "Hi, looking for accommodation near Indiranagar around 19500. Any options?"
+        },
+        {
+          "id": "wm-gen-15-2",
+          "sender": "operator",
+          "senderName": "Sneha Rao",
+          "timestamp": "Today 10:05 AM",
+          "text": "Hello Aditya! Yes, we have 2 great options available. Let me call you with the exact photos and rent details."
+        }
+      ],
+      "updatedAt": "2026-09-22T10:45:25.760Z"
+    },
+    {
+      "id": "lead-122",
+      "name": "Snehal Chopra",
+      "phone": "+91 99776 12356",
+      "email": "snehal.chopra@amazonaws.com",
+      "locality": "Koramangala, Bangalore",
+      "budget": 22000,
+      "occupancyType": "Single",
+      "propertyType": "Coliving PG",
+      "moveInDate": "2026-10-01",
+      "stage": "tour_scheduled",
+      "owner": "Aarav Sharma",
+      "deadline": "2026-09-22T20:40:25.756Z",
+      "isOverdue": false,
+      "overdueMinutes": 0,
+      "urgency": "medium",
+      "whyWeAreCalling": "Incoming inquiry for Koramangala; joining Amazon AWS. Looking to finalize within 48 hours.",
+      "whatIsAlreadyKnown": {
+        "budget": "₹22,000 / month",
+        "targetLocation": "Koramangala",
+        "workplace": "Amazon AWS Tech Park",
+        "foodPreference": "Veg meals needed",
+        "stayDuration": "9+ months"
+      },
+      "whatToConfirm": [
+        "Move-in exact date around Koramangala",
+        "AC vs Non-AC room preference",
+        "Physical tour availability today between 3 PM and 7 PM"
+      ],
+      "callScriptPoints": [
+        "Hi Snehal, Aarav here from LeadZen Gharpayy. Saw your inquiry for a place in Koramangala.",
+        "We have verified units right near Amazon AWS with zero brokerage and daily housekeeping.",
+        "Would you prefer checking out the place in person today or should I share a 360 video walkthrough first?"
+      ],
+      "autoCustomerMessage": "Hi Snehal, thanks for speaking with Aarav Sharma. Details for our verified PG/1BHK in Koramangala (₹22,000/mo) sent. Let's lock your tour slot!",
+      "autoNextStep": "Follow up on inspection decision",
+      "autoFollowUpDeadline": "2026-09-22T11:45:25.756Z",
+      "whatsappMessages": [
+        {
+          "id": "wm-gen-16-1",
+          "sender": "customer",
+          "senderName": "Snehal Chopra",
+          "timestamp": "Today 10:00 AM",
+          "text": "Hi, looking for accommodation near Koramangala around 22000. Any options?"
+        },
+        {
+          "id": "wm-gen-16-2",
+          "sender": "operator",
+          "senderName": "Aarav Sharma",
+          "timestamp": "Today 10:05 AM",
+          "text": "Hello Snehal! Yes, we have 2 great options available. Let me call you with the exact photos and rent details."
+        }
+      ],
+      "updatedAt": "2026-09-22T10:45:25.760Z"
+    },
+    {
+      "id": "lead-123",
+      "name": "Gaurav Bose",
+      "phone": "+91 99887 12357",
+      "email": "gaurav.bose@razorpay.com",
+      "locality": "Bellandur, Bangalore",
+      "budget": 24500,
+      "occupancyType": "Double",
+      "propertyType": "1 BHK",
+      "moveInDate": "2026-10-01",
+      "stage": "tour_completed",
+      "owner": "Pooja Hegde",
+      "deadline": "2026-09-22T21:15:25.756Z",
+      "isOverdue": false,
+      "overdueMinutes": 0,
+      "urgency": "low",
+      "whyWeAreCalling": "Incoming inquiry for Bellandur; joining Razorpay. Looking to finalize within 48 hours.",
+      "whatIsAlreadyKnown": {
+        "budget": "₹24,500 / month",
+        "targetLocation": "Bellandur",
+        "workplace": "Razorpay Tech Park",
+        "foodPreference": "Flexible food options",
+        "stayDuration": "9+ months"
+      },
+      "whatToConfirm": [
+        "Move-in exact date around Bellandur",
+        "AC vs Non-AC room preference",
+        "Physical tour availability today between 3 PM and 7 PM"
+      ],
+      "callScriptPoints": [
+        "Hi Gaurav, Pooja here from LeadZen Gharpayy. Saw your inquiry for a place in Bellandur.",
+        "We have verified units right near Razorpay with zero brokerage and daily housekeeping.",
+        "Would you prefer checking out the place in person today or should I share a 360 video walkthrough first?"
+      ],
+      "autoCustomerMessage": "Hi Gaurav, thanks for speaking with Pooja Hegde. Details for our verified PG/1BHK in Bellandur (₹24,500/mo) sent. Let's lock your tour slot!",
+      "autoNextStep": "Follow up on inspection decision",
+      "autoFollowUpDeadline": "2026-09-22T11:45:25.756Z",
+      "whatsappMessages": [
+        {
+          "id": "wm-gen-17-1",
+          "sender": "customer",
+          "senderName": "Gaurav Bose",
+          "timestamp": "Today 10:00 AM",
+          "text": "Hi, looking for accommodation near Bellandur around 24500. Any options?"
+        },
+        {
+          "id": "wm-gen-17-2",
+          "sender": "operator",
+          "senderName": "Pooja Hegde",
+          "timestamp": "Today 10:05 AM",
+          "text": "Hello Gaurav! Yes, we have 2 great options available. Let me call you with the exact photos and rent details."
+        }
+      ],
+      "updatedAt": "2026-09-22T10:45:25.760Z"
+    },
+    {
+      "id": "lead-124",
+      "name": "Pallavi Joshi",
+      "phone": "+91 99998 12358",
+      "email": "pallavi.joshi@infosys.com",
+      "locality": "Whitefield, Bangalore",
+      "budget": 12000,
+      "occupancyType": "Single",
+      "propertyType": "Coliving PG",
+      "moveInDate": "2026-10-01",
+      "stage": "quote_sent",
+      "owner": "Rohan Mehta",
+      "deadline": "2026-09-22T05:03:25.756Z",
+      "isOverdue": true,
+      "overdueMinutes": 342,
+      "urgency": "high",
+      "whyWeAreCalling": "Incoming inquiry for Whitefield; joining Infosys. Looking to finalize within 48 hours.",
+      "whatIsAlreadyKnown": {
+        "budget": "₹12,000 / month",
+        "targetLocation": "Whitefield",
+        "workplace": "Infosys Tech Park",
+        "foodPreference": "Veg meals needed",
+        "stayDuration": "9+ months"
+      },
+      "whatToConfirm": [
+        "Move-in exact date around Whitefield",
+        "AC vs Non-AC room preference",
+        "Physical tour availability today between 3 PM and 7 PM"
+      ],
+      "callScriptPoints": [
+        "Hi Pallavi, Rohan here from LeadZen Gharpayy. Saw your inquiry for a place in Whitefield.",
+        "We have verified units right near Infosys with zero brokerage and daily housekeeping.",
+        "Would you prefer checking out the place in person today or should I share a 360 video walkthrough first?"
+      ],
+      "autoCustomerMessage": "Hi Pallavi, thanks for speaking with Rohan Mehta. Details for our verified PG/1BHK in Whitefield (₹12,000/mo) sent. Let's lock your tour slot!",
+      "autoNextStep": "Follow up on inspection decision",
+      "autoFollowUpDeadline": "2026-09-22T11:45:25.756Z",
+      "whatsappMessages": [
+        {
+          "id": "wm-gen-18-1",
+          "sender": "customer",
+          "senderName": "Pallavi Joshi",
+          "timestamp": "Today 10:00 AM",
+          "text": "Hi, looking for accommodation near Whitefield around 12000. Any options?"
+        },
+        {
+          "id": "wm-gen-18-2",
+          "sender": "operator",
+          "senderName": "Rohan Mehta",
+          "timestamp": "Today 10:05 AM",
+          "text": "Hello Pallavi! Yes, we have 2 great options available. Let me call you with the exact photos and rent details."
+        }
+      ],
+      "updatedAt": "2026-09-22T10:45:25.760Z"
+    },
+    {
+      "id": "lead-125",
+      "name": "Akash Banerjee",
+      "phone": "+91 100109 12359",
+      "email": "akash.banerjee@cred.com",
+      "locality": "Marathahalli, Bangalore",
+      "budget": 14500,
+      "occupancyType": "Double",
+      "propertyType": "Coliving PG",
+      "moveInDate": "2026-10-01",
+      "stage": "decision_pending",
+      "owner": "Sneha Rao",
+      "deadline": "2026-09-22T22:25:25.756Z",
+      "isOverdue": false,
+      "overdueMinutes": 0,
+      "urgency": "low",
+      "whyWeAreCalling": "Incoming inquiry for Marathahalli; joining Cred. Looking to finalize within 48 hours.",
+      "whatIsAlreadyKnown": {
+        "budget": "₹14,500 / month",
+        "targetLocation": "Marathahalli",
+        "workplace": "Cred Tech Park",
+        "foodPreference": "Flexible food options",
+        "stayDuration": "9+ months"
+      },
+      "whatToConfirm": [
+        "Move-in exact date around Marathahalli",
+        "AC vs Non-AC room preference",
+        "Physical tour availability today between 3 PM and 7 PM"
+      ],
+      "callScriptPoints": [
+        "Hi Akash, Sneha here from LeadZen Gharpayy. Saw your inquiry for a place in Marathahalli.",
+        "We have verified units right near Cred with zero brokerage and daily housekeeping.",
+        "Would you prefer checking out the place in person today or should I share a 360 video walkthrough first?"
+      ],
+      "autoCustomerMessage": "Hi Akash, thanks for speaking with Sneha Rao. Details for our verified PG/1BHK in Marathahalli (₹14,500/mo) sent. Let's lock your tour slot!",
+      "autoNextStep": "Follow up on inspection decision",
+      "autoFollowUpDeadline": "2026-09-22T11:45:25.756Z",
+      "whatsappMessages": [
+        {
+          "id": "wm-gen-19-1",
+          "sender": "customer",
+          "senderName": "Akash Banerjee",
+          "timestamp": "Today 10:00 AM",
+          "text": "Hi, looking for accommodation near Marathahalli around 14500. Any options?"
+        },
+        {
+          "id": "wm-gen-19-2",
+          "sender": "operator",
+          "senderName": "Sneha Rao",
+          "timestamp": "Today 10:05 AM",
+          "text": "Hello Akash! Yes, we have 2 great options available. Let me call you with the exact photos and rent details."
+        }
+      ],
+      "updatedAt": "2026-09-22T10:45:25.760Z"
+    },
+    {
+      "id": "lead-126",
+      "name": "Nikita Nair",
+      "phone": "+91 100220 12360",
+      "email": "nikita.nair@swiggy.com",
+      "locality": "BTM Layout, Bangalore",
+      "budget": 17000,
+      "occupancyType": "Single",
+      "propertyType": "Coliving PG",
+      "moveInDate": "2026-10-01",
+      "stage": "money_pending",
+      "owner": "Aarav Sharma",
+      "deadline": "2026-09-22T23:00:25.756Z",
+      "isOverdue": false,
+      "overdueMinutes": 0,
+      "urgency": "medium",
+      "whyWeAreCalling": "Incoming inquiry for BTM Layout; joining Swiggy. Looking to finalize within 48 hours.",
+      "whatIsAlreadyKnown": {
+        "budget": "₹17,000 / month",
+        "targetLocation": "BTM Layout",
+        "workplace": "Swiggy Tech Park",
+        "foodPreference": "Veg meals needed",
+        "stayDuration": "9+ months"
+      },
+      "whatToConfirm": [
+        "Move-in exact date around BTM Layout",
+        "AC vs Non-AC room preference",
+        "Physical tour availability today between 3 PM and 7 PM"
+      ],
+      "callScriptPoints": [
+        "Hi Nikita, Aarav here from LeadZen Gharpayy. Saw your inquiry for a place in BTM Layout.",
+        "We have verified units right near Swiggy with zero brokerage and daily housekeeping.",
+        "Would you prefer checking out the place in person today or should I share a 360 video walkthrough first?"
+      ],
+      "autoCustomerMessage": "Hi Nikita, thanks for speaking with Aarav Sharma. Details for our verified PG/1BHK in BTM Layout (₹17,000/mo) sent. Let's lock your tour slot!",
+      "autoNextStep": "Follow up on inspection decision",
+      "autoFollowUpDeadline": "2026-09-22T11:45:25.756Z",
+      "whatsappMessages": [
+        {
+          "id": "wm-gen-20-1",
+          "sender": "customer",
+          "senderName": "Nikita Nair",
+          "timestamp": "Today 10:00 AM",
+          "text": "Hi, looking for accommodation near BTM Layout around 17000. Any options?"
+        },
+        {
+          "id": "wm-gen-20-2",
+          "sender": "operator",
+          "senderName": "Aarav Sharma",
+          "timestamp": "Today 10:05 AM",
+          "text": "Hello Nikita! Yes, we have 2 great options available. Let me call you with the exact photos and rent details."
+        }
+      ],
+      "updatedAt": "2026-09-22T10:45:25.760Z"
+    },
+    {
+      "id": "lead-127",
+      "name": "Abhishek Chopra",
+      "phone": "+91 100331 12361",
+      "email": "abhishek.chopra@phonepe.com",
+      "locality": "HSR Layout, Bangalore",
+      "budget": 19500,
+      "occupancyType": "Double",
+      "propertyType": "Coliving PG",
+      "moveInDate": "2026-10-01",
+      "stage": "new_lead",
+      "owner": "Pooja Hegde",
+      "deadline": "2026-09-22T04:09:25.756Z",
+      "isOverdue": true,
+      "overdueMinutes": 396,
+      "urgency": "high",
+      "whyWeAreCalling": "Incoming inquiry for HSR Layout; joining PhonePe. Looking to finalize within 48 hours.",
+      "whatIsAlreadyKnown": {
+        "budget": "₹19,500 / month",
+        "targetLocation": "HSR Layout",
+        "workplace": "PhonePe Tech Park",
+        "foodPreference": "Flexible food options",
+        "stayDuration": "9+ months"
+      },
+      "whatToConfirm": [
+        "Move-in exact date around HSR Layout",
+        "AC vs Non-AC room preference",
+        "Physical tour availability today between 3 PM and 7 PM"
+      ],
+      "callScriptPoints": [
+        "Hi Abhishek, Pooja here from LeadZen Gharpayy. Saw your inquiry for a place in HSR Layout.",
+        "We have verified units right near PhonePe with zero brokerage and daily housekeeping.",
+        "Would you prefer checking out the place in person today or should I share a 360 video walkthrough first?"
+      ],
+      "autoCustomerMessage": "Hi Abhishek, thanks for speaking with Pooja Hegde. Details for our verified PG/1BHK in HSR Layout (₹19,500/mo) sent. Let's lock your tour slot!",
+      "autoNextStep": "Call to qualify budget & schedule tour",
+      "autoFollowUpDeadline": "2026-09-22T11:45:25.756Z",
+      "whatsappMessages": [
+        {
+          "id": "wm-gen-21-1",
+          "sender": "customer",
+          "senderName": "Abhishek Chopra",
+          "timestamp": "Today 10:00 AM",
+          "text": "Hi, looking for accommodation near HSR Layout around 19500. Any options?"
+        },
+        {
+          "id": "wm-gen-21-2",
+          "sender": "operator",
+          "senderName": "Pooja Hegde",
+          "timestamp": "Today 10:05 AM",
+          "text": "Hello Abhishek! Yes, we have 2 great options available. Let me call you with the exact photos and rent details."
+        }
+      ],
+      "updatedAt": "2026-09-22T10:45:25.760Z"
+    },
+    {
+      "id": "lead-128",
+      "name": "Priyanka Bose",
+      "phone": "+91 100442 12362",
+      "email": "priyanka.bose@ubertech.com",
+      "locality": "Indiranagar, Bangalore",
+      "budget": 22000,
+      "occupancyType": "Single",
+      "propertyType": "Coliving PG",
+      "moveInDate": "2026-10-01",
+      "stage": "contacted",
+      "owner": "Rohan Mehta",
+      "deadline": "2026-09-23T00:10:25.756Z",
+      "isOverdue": false,
+      "overdueMinutes": 0,
+      "urgency": "medium",
+      "whyWeAreCalling": "Incoming inquiry for Indiranagar; joining Uber Tech. Looking to finalize within 48 hours.",
+      "whatIsAlreadyKnown": {
+        "budget": "₹22,000 / month",
+        "targetLocation": "Indiranagar",
+        "workplace": "Uber Tech Tech Park",
+        "foodPreference": "Veg meals needed",
+        "stayDuration": "9+ months"
+      },
+      "whatToConfirm": [
+        "Move-in exact date around Indiranagar",
+        "AC vs Non-AC room preference",
+        "Physical tour availability today between 3 PM and 7 PM"
+      ],
+      "callScriptPoints": [
+        "Hi Priyanka, Rohan here from LeadZen Gharpayy. Saw your inquiry for a place in Indiranagar.",
+        "We have verified units right near Uber Tech with zero brokerage and daily housekeeping.",
+        "Would you prefer checking out the place in person today or should I share a 360 video walkthrough first?"
+      ],
+      "autoCustomerMessage": "Hi Priyanka, thanks for speaking with Rohan Mehta. Details for our verified PG/1BHK in Indiranagar (₹22,000/mo) sent. Let's lock your tour slot!",
+      "autoNextStep": "Follow up on inspection decision",
+      "autoFollowUpDeadline": "2026-09-22T11:45:25.756Z",
+      "whatsappMessages": [
+        {
+          "id": "wm-gen-22-1",
+          "sender": "customer",
+          "senderName": "Priyanka Bose",
+          "timestamp": "Today 10:00 AM",
+          "text": "Hi, looking for accommodation near Indiranagar around 22000. Any options?"
+        },
+        {
+          "id": "wm-gen-22-2",
+          "sender": "operator",
+          "senderName": "Rohan Mehta",
+          "timestamp": "Today 10:05 AM",
+          "text": "Hello Priyanka! Yes, we have 2 great options available. Let me call you with the exact photos and rent details."
+        }
+      ],
+      "updatedAt": "2026-09-22T10:45:25.760Z"
+    },
+    {
+      "id": "lead-129",
+      "name": "Sanjay Joshi",
+      "phone": "+91 100553 12363",
+      "email": "sanjay.joshi@oracle.com",
+      "locality": "Koramangala, Bangalore",
+      "budget": 24500,
+      "occupancyType": "Double",
+      "propertyType": "1 BHK",
+      "moveInDate": "2026-10-01",
+      "stage": "tour_scheduled",
+      "owner": "Sneha Rao",
+      "deadline": "2026-09-23T00:45:25.756Z",
+      "isOverdue": false,
+      "overdueMinutes": 0,
+      "urgency": "low",
+      "whyWeAreCalling": "Incoming inquiry for Koramangala; joining Oracle. Looking to finalize within 48 hours.",
+      "whatIsAlreadyKnown": {
+        "budget": "₹24,500 / month",
+        "targetLocation": "Koramangala",
+        "workplace": "Oracle Tech Park",
+        "foodPreference": "Flexible food options",
+        "stayDuration": "9+ months"
+      },
+      "whatToConfirm": [
+        "Move-in exact date around Koramangala",
+        "AC vs Non-AC room preference",
+        "Physical tour availability today between 3 PM and 7 PM"
+      ],
+      "callScriptPoints": [
+        "Hi Sanjay, Sneha here from LeadZen Gharpayy. Saw your inquiry for a place in Koramangala.",
+        "We have verified units right near Oracle with zero brokerage and daily housekeeping.",
+        "Would you prefer checking out the place in person today or should I share a 360 video walkthrough first?"
+      ],
+      "autoCustomerMessage": "Hi Sanjay, thanks for speaking with Sneha Rao. Details for our verified PG/1BHK in Koramangala (₹24,500/mo) sent. Let's lock your tour slot!",
+      "autoNextStep": "Follow up on inspection decision",
+      "autoFollowUpDeadline": "2026-09-22T11:45:25.756Z",
+      "whatsappMessages": [
+        {
+          "id": "wm-gen-23-1",
+          "sender": "customer",
+          "senderName": "Sanjay Joshi",
+          "timestamp": "Today 10:00 AM",
+          "text": "Hi, looking for accommodation near Koramangala around 24500. Any options?"
+        },
+        {
+          "id": "wm-gen-23-2",
+          "sender": "operator",
+          "senderName": "Sneha Rao",
+          "timestamp": "Today 10:05 AM",
+          "text": "Hello Sanjay! Yes, we have 2 great options available. Let me call you with the exact photos and rent details."
+        }
+      ],
+      "updatedAt": "2026-09-22T10:45:25.760Z"
+    },
+    {
+      "id": "lead-130",
+      "name": "Geeta Banerjee",
+      "phone": "+91 100664 12364",
+      "email": "geeta.banerjee@amazonaws.com",
+      "locality": "Bellandur, Bangalore",
+      "budget": 12000,
+      "occupancyType": "Single",
+      "propertyType": "Coliving PG",
+      "moveInDate": "2026-10-01",
+      "stage": "tour_completed",
+      "owner": "Aarav Sharma",
+      "deadline": "2026-09-22T03:15:25.756Z",
+      "isOverdue": true,
+      "overdueMinutes": 450,
+      "urgency": "high",
+      "whyWeAreCalling": "Incoming inquiry for Bellandur; joining Amazon AWS. Looking to finalize within 48 hours.",
+      "whatIsAlreadyKnown": {
+        "budget": "₹12,000 / month",
+        "targetLocation": "Bellandur",
+        "workplace": "Amazon AWS Tech Park",
+        "foodPreference": "Veg meals needed",
+        "stayDuration": "9+ months"
+      },
+      "whatToConfirm": [
+        "Move-in exact date around Bellandur",
+        "AC vs Non-AC room preference",
+        "Physical tour availability today between 3 PM and 7 PM"
+      ],
+      "callScriptPoints": [
+        "Hi Geeta, Aarav here from LeadZen Gharpayy. Saw your inquiry for a place in Bellandur.",
+        "We have verified units right near Amazon AWS with zero brokerage and daily housekeeping.",
+        "Would you prefer checking out the place in person today or should I share a 360 video walkthrough first?"
+      ],
+      "autoCustomerMessage": "Hi Geeta, thanks for speaking with Aarav Sharma. Details for our verified PG/1BHK in Bellandur (₹12,000/mo) sent. Let's lock your tour slot!",
+      "autoNextStep": "Follow up on inspection decision",
+      "autoFollowUpDeadline": "2026-09-22T11:45:25.756Z",
+      "whatsappMessages": [
+        {
+          "id": "wm-gen-24-1",
+          "sender": "customer",
+          "senderName": "Geeta Banerjee",
+          "timestamp": "Today 10:00 AM",
+          "text": "Hi, looking for accommodation near Bellandur around 12000. Any options?"
+        },
+        {
+          "id": "wm-gen-24-2",
+          "sender": "operator",
+          "senderName": "Aarav Sharma",
+          "timestamp": "Today 10:05 AM",
+          "text": "Hello Geeta! Yes, we have 2 great options available. Let me call you with the exact photos and rent details."
+        }
+      ],
+      "updatedAt": "2026-09-22T10:45:25.760Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "log-1",
+      "timestamp": "2026-09-22T10:20:25.760Z",
+      "operatorName": "Aarav Sharma",
+      "leadId": "lead-105",
+      "leadName": "Siddharth Sen",
+      "module": "M-POWER CALL",
+      "action": "TOUR_COMPLETED",
+      "details": "Physical tour conducted by Suresh at ZenStay HSR Sector 2. Customer liked room #202.",
+      "previousValue": "tour_scheduled",
+      "newValue": "tour_completed"
+    },
+    {
+      "id": "log-2",
+      "timestamp": "2026-09-22T10:30:25.760Z",
+      "operatorName": "Sneha Rao",
+      "leadId": "lead-104",
+      "leadName": "Kavya Iyer",
+      "module": "Closing Desk",
+      "action": "TOKEN_RECEIVED",
+      "details": "Advance token of ₹5,000 recorded via GPay UTR 4289018471. Room #201 locked.",
+      "previousValue": "decision_pending",
+      "newValue": "booking_confirmed"
+    },
+    {
+      "id": "log-3",
+      "timestamp": "2026-09-22T10:37:25.760Z",
+      "operatorName": "Pooja Hegde",
+      "leadId": "lead-102",
+      "leadName": "Ananya Deshmukh",
+      "module": "Booking Flow Split",
+      "action": "TOUR_SCHEDULED",
+      "details": "Confirmed 4:00 PM in-person tour at UrbanHaven Indiranagar 12th Main.",
+      "previousValue": "contacted",
+      "newValue": "tour_scheduled"
+    }
+  ],
+  "dailyCarePromise": {
+    "id": "care-today",
+    "date": "2026-09-22",
+    "operatorName": "Aarav Sharma",
+    "targetCalls": 30,
+    "targetTours": 6,
+    "targetClosings": 2,
+    "promisedClosingNotes": "Will convert Rohan Varma to tour, lock Vikram Rathore deposit, and run 30 qualified conversations.",
+    "leadIds": [
+      "lead-101",
+      "lead-102",
+      "lead-103",
+      "lead-104",
+      "lead-105",
+      "lead-106",
+      "lead-107",
+      "lead-108",
+      "lead-109",
+      "lead-110",
+      "lead-111",
+      "lead-112",
+      "lead-113",
+      "lead-114",
+      "lead-115",
+      "lead-116",
+      "lead-117",
+      "lead-118",
+      "lead-119",
+      "lead-120",
+      "lead-121",
+      "lead-122",
+      "lead-123",
+      "lead-124",
+      "lead-125",
+      "lead-126",
+      "lead-127",
+      "lead-128",
+      "lead-129",
+      "lead-130"
+    ],
+    "completedLeadIds": [
+      "lead-104",
+      "lead-105"
+    ],
+    "status": "active",
+    "whatsappSummaryText": "",
+    "createdAt": "2026-09-22T10:45:25.760Z"
+  }
+}

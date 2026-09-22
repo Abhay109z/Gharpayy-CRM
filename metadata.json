@@ -1,0 +1,6 @@
+{
+  "name": "LeadZen Rental CRM",
+  "description": "Live rental CRM and movement OS for home discovery, qualification calls, tour scheduling, and fast booking closings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
